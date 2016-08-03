@@ -1,2 +1,3 @@
 Pluto is so a planet!
-"so" is just in Sheila's copy
+Maybe.
+Removed conflicts on both lines.
